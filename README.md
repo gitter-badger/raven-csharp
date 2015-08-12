@@ -1,5 +1,7 @@
 Usage
 =====
+
+[![Join the chat at https://gitter.im/getsentry/raven-csharp](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/getsentry/raven-csharp?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Instantiate the client with your DSN:
 ```csharp
 var ravenClient = new RavenClient("http://public:secret@example.com/project-id");
